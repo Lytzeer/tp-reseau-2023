@@ -188,49 +188,17 @@ Déterminer...
 
 # III. Le requin
 
-Faites chauffer Wireshark. Pour chaque point, je veux que vous me livrez une capture Wireshark, format `.pcap` donc.
-
-Faites *clean* 🧹, vous êtes des grands now :
-
-- livrez moi des captures réseau avec uniquement ce que je demande et pas 40000 autres paquets autour
-  - vous pouvez sélectionner seulement certains paquets quand vous enregistrez la capture dans Wireshark
-- stockez les fichiers `.pcap` dans le dépôt git et côté rendu Markdown, vous me faites un lien vers le fichier, c'est cette syntaxe :
-
-```markdown
-[Lien vers capture ARP](./captures/arp.pcap)
-```
-
----
-
 ☀️ **Capture ARP**
 
-- 📁 fichier `arp.pcap`
-- capturez un échange ARP entre votre PC et la passerelle du réseau
-
-> Si vous utilisez un filtre Wireshark pour mieux voir ce trafic, précisez-le moi dans le compte-rendu.
-
----
+[Lien vers capture ARP](./captures/arp.pcap)
 
 ☀️ **Capture DNS**
 
-- 📁 fichier `dns.pcap`
-- capturez une requête DNS vers le domaine de votre choix et la réponse
-- vous effectuerez la requête DNS en ligne de commande
-
-> Si vous utilisez un filtre Wireshark pour mieux voir ce trafic, précisez-le moi dans le compte-rendu.
-
----
+[Lien vers capture DNS](./captures/dns.pcap)
 
 ☀️ **Capture TCP**
 
-- 📁 fichier `tcp.pcap`
-- effectuez une connexion qui sollicite le protocole TCP
-- je veux voir dans la capture :
-  - un 3-way handshake
-  - un peu de trafic
-  - la fin de la connexion TCP
-
-> Si vous utilisez un filtre Wireshark pour mieux voir ce trafic, précisez-le moi dans le compte-rendu.
+[Lien vers capture TCP](./captures/tcp.pcap)
 
 ---
 
