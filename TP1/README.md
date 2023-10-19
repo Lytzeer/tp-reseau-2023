@@ -66,7 +66,6 @@ PS C:\Users\lukas> ipconfig -all
           Serveurs DNS. . .  . . . . . . . . . . : 8.8.8.8
                                        1.1.1.1
 ```
-![Not sure](./img/notsure.png)
 
 # II. Go further
 
@@ -184,8 +183,6 @@ Déterminer...
 
 > Allez-y mollo, on va vite flood le réseau sinon. :)
 
-![Stop it](./img/stop.png)
-
 # III. Le requin
 
 ☀️ **Capture ARP**
@@ -199,9 +196,3 @@ Déterminer...
 ☀️ **Capture TCP**
 
 [Lien vers capture TCP](./captures/tcp.pcap)
-
----
-
-![Packet sniffer](img/wireshark.jpg)
-
-> *Je sais que je vous l'ai déjà servi l'an dernier lui, mais j'aime trop ce meme hihi 🐈*
